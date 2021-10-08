@@ -1,10 +1,11 @@
 body {
+  background-image: url("https://images.unsplash.com/photo-1490544270497-a6044db8db90?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1476&q=80");
   font-family: sans-serif;
   margin: 0 auto;
   padding: 25px;
   max-width: 400px;
   min-width: 400px;
-  background-color: #798286;
+  /* background-color: #798286; */
   text-align: center;
 }
 
