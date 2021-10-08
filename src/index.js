@@ -2,6 +2,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
+import Avatar from "./components/Avatar";
 
 function Card(props) {
   const customStyle = {

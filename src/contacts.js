@@ -1,5 +1,6 @@
 const contacts = [
   {
+    id: 1,
     name: "ANNE HATHAWAY",
     imgURL:
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFd0vj_95I1TMqMILp2b1vwrAYJEzxHJ05ag&usqp=CAU",
@@ -7,6 +8,7 @@ const contacts = [
     email: "anne@hathaway.com"
   },
   {
+    id: 2,
     name: "JASON MAMOA",
     imgURL:
       "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/jason-momoas-family-was-starving-after-his-game-of-thrones-exit.jpg",
@@ -14,6 +16,7 @@ const contacts = [
     email: "jason@mamoa.com"
   },
   {
+    id: 3,
     name: "Chuck Norris",
     imgURL:
       "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
