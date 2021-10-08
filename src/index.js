@@ -16,6 +16,7 @@ function Card(props) {
   );
 }
 
+//Rendering ReactDOM 
 ReactDOM.render(
   <div>
     <App />
