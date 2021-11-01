@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Note title="" content="" />
+      <Note title="Store Your Ideas" content="Start here..." />
       <Footer />
     </div>
   );
