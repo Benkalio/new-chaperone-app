@@ -1,4 +1,4 @@
-export const notes = [
+const notes = [
   {
     key: 1,
     title: "Storage",
@@ -30,3 +30,5 @@ export const notes = [
       "Where files and softwares are kept in a computer system. Can Also be called a hard-disk or disk-drive."
   }
 ];
+
+export default notes;
