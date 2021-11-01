@@ -13,19 +13,19 @@
   },
   {
     key: 3,
-    title: "Storage",
+    title: "Macbook",
     content:
       "Where files and softwares are kept in a computer system. Can Also be called a hard-disk or disk-drive."
   },
   {
-    key: 1,
-    title: "Storage",
+    key: 4,
+    title: "Windows",
     content:
       "Where files and softwares are kept in a computer system. Can Also be called a hard-disk or disk-drive."
   },
   {
-    key: 1,
-    title: "Storage",
+    key: 5,
+    title: "Linux",
     content:
       "Where files and softwares are kept in a computer system. Can Also be called a hard-disk or disk-drive."
   }
